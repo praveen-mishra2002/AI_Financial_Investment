@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Investment Copilot
 
 AI Investment Copilot is a local-first investment research and portfolio decision-support platform for Indian equities. It implements deterministic scoring, auditable recommendation runs, portfolio analysis, and AI-generated explanations that never decide the investment action.
@@ -44,3 +45,7 @@ Recommendations are produced from deterministic agent outputs:
 - Recommendation inputs, scores, decisions, model version, prompt version, and timestamps are persisted for auditability.
 
 This platform does not execute trades.
+=======
+# AI_Financial_Investment
+This is an AI tool for doing financial investment
+>>>>>>> 4d32d7c24798aa74a1798dfb8886f84b0d40b776
