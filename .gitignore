@@ -1,0 +1,13 @@
+.env
+.venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+dist/
+coverage/
+*.log
+investment_copilot.db
